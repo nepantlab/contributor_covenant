@@ -1,6 +1,6 @@
 +++
 version = "2.1"
-aliases = ["/version/2/1/bn"]
+aliases = ["/version/2/1"]
 +++
 
 # অবদানকারী আচরণবিধি
