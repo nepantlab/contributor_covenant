@@ -1,6 +1,7 @@
 +++
 version = "2.1"
 aliases = ["/version/2/1/cn"]
+reportingPlaceholder = "[插入联系方式]"
 +++
 
 # 贡献者公约
@@ -39,12 +40,11 @@ aliases = ["/version/2/1/cn"]
 
 本行为准则适用于所有社区场合，也适用于在公共场所代表社区时的个人。
 
-代表社区的情形包括使用官方电子邮件地址、通过官方社交媒体账户发帖或在线上或线下活动中担任指定代表。
+代表社区的情形包括使用官方电子邮件地址、通过官方社交媒体帐户发帖或在线上或线下活动中担任指定代表。
 
 ## 监督
 
-辱骂、骚扰或其他不可接受的行为可通过 [插入联系方式] 向负责监督的社区领袖报告。
-所有投诉都将得到及时和公平地审查和调查。
+辱骂、骚扰或其他不可接受的行为可通过 [插入联系方式] 向负责监督的社区领袖报告。 所有投诉都将得到及时和公平的审查和调查。
 
 所有社区领袖都有义务尊重任何事件报告者的隐私和安全。
 
@@ -82,8 +82,7 @@ aliases = ["/version/2/1/cn"]
 
 社区处理方针灵感来源于 [Mozilla's code of conduct enforcement ladder][Mozilla CoC]。
 
-有关本行为准则的常见问题的答案，参见 [https://www.contributor-covenant.org/faq][FAQ]。
-其他语言翻译参见 [https://www.contributor-covenant.org/translations][translations]。
+有关本行为准则的常见问题的答案，参见 [https://www.contributor-covenant.org/faq][FAQ]。 其他语言翻译参见 [https://www.contributor-covenant.org/translations][translations]。
 
 [homepage]: https://www.contributor-covenant.org
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html

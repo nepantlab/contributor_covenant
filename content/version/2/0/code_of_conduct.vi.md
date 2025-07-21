@@ -1,6 +1,7 @@
 +++
 version = "2.0"
-aliases = ["/version/2/0"]
+aliases = ["/version/2/0/vi"]
+reportingPlaceholder = "[CUNG CẤP THÔNG TIN LIÊN HỆ Ở ĐÂY]"
 +++
 
 # Quy tắc ứng xử của Người đóng góp
@@ -15,18 +16,18 @@ Chúng tôi cam kết hành động và tương tác theo cách góp phần xây
 
 Các ví dụ về hành vi góp phần tạo môi trường tích cực cho cộng đồng của chúng tôi bao gồm:
 
--   Tôn trọng các ý kiến, quan điểm và trải nghiệm khác nhau
--   Đưa ra và chấp nhận phản hồi mang tính xây dựng một cách lịch sự
--   Chấp nhận trách nhiệm và xin lỗi những người bị ảnh hưởng bởi những sai lầm của chúng ta và rút kinh nghiệm từ đó
--   Tập trung vào những gì tốt nhất không chỉ cho bản thân chúng tôi mà còn cho toàn thể cộng đồng
+* Tôn trọng các ý kiến, quan điểm và trải nghiệm khác nhau
+* Đưa ra và chấp nhận phản hồi mang tính xây dựng một cách lịch sự
+* Chấp nhận trách nhiệm và xin lỗi những người bị ảnh hưởng bởi những sai lầm của chúng ta và rút kinh nghiệm từ đó
+* Tập trung vào những gì tốt nhất không chỉ cho bản thân chúng tôi mà còn cho toàn thể cộng đồng
 
 Các ví dụ về hành vi không chấp nhận được bao gồm:
 
--   Sử dụng ngôn ngữ hoặc hình ảnh mang tính chất đồi trụy và sự chú ý hoặc tấn công tình dục dưới bất kỳ hình thức nào
--   Đùa cợt, bình luận xúc phạm hoặc hạ thấp danh dự, và tấn công cá nhân hoặc chính trị
--   Quấy rối công khai hoặc riêng tư
--   Công khai thông tin cá nhân của người khác, chẳng hạn như địa chỉ nơi ở hoặc email, mà không có sự cho phép rõ ràng của họ
--   Các hành vi khác có thể được coi là không phù hợp trong môi trường chuyên nghiệp
+* Sử dụng ngôn ngữ hoặc hình ảnh mang tính chất đồi trụy và sự chú ý hoặc tấn công tình dục dưới bất kỳ hình thức nào
+* Đùa cợt, bình luận xúc phạm hoặc hạ thấp danh dự, và tấn công cá nhân hoặc chính trị
+* Quấy rối công khai hoặc riêng tư
+* Công khai thông tin cá nhân của người khác, chẳng hạn như địa chỉ nơi ở hoặc email, mà không có sự cho phép rõ ràng của họ
+* Các hành vi khác có thể được coi là không phù hợp trong môi trường chuyên nghiệp
 
 ## Trách nhiệm thực thi
 
@@ -40,7 +41,7 @@ Quy tắc Ứng xử này áp dụng trong tất cả các không gian cộng đ
 
 ## Thực thi
 
-Các trường hợp hành vi lạm dụng, quấy rối hoặc không thể chấp nhận khác có thể được báo cáo cho các lãnh đạo cộng đồng chịu trách nhiệm thực thi theo phương thức liên lạc contact@nguyenconggioi.me.
+Các trường hợp hành vi lạm dụng, quấy rối hoặc không thể chấp nhận khác có thể được báo cáo cho các lãnh đạo cộng đồng chịu trách nhiệm thực thi theo phương thức liên lạc [CUNG CẤP THÔNG TIN LIÊN HỆ Ở ĐÂY].
 
 Tất cả các khiếu nại sẽ được xem xét và điều tra nhanh chóng và công bằng.
 

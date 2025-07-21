@@ -1,6 +1,7 @@
 +++
 version = "2.1"
 aliases = ["/version/2/1/ja"]
+reportingPlaceholder = "[連絡方法を挿入]"
 +++
 
 # コントリビューター行動規範

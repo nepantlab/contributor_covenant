@@ -1,6 +1,7 @@
 +++
 version = "2.1"
 aliases = ["/version/2/1/es"]
+reportingPlaceholder = "[INSERTAR MÉTODO DE CONTACTO]"
 +++
 
 # Código de Conducta convenido para Contribuyentes

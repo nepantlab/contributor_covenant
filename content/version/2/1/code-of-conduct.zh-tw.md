@@ -1,6 +1,7 @@
 +++
 version = "2.1"
 aliases = ["/version/2/1/tw"]
+reportingPlaceholder = "[在此填入聯絡方式]"
 +++
 
 # 貢獻者公約

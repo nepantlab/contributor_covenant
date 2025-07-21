@@ -1,6 +1,7 @@
 +++
 version = "2.1"
 aliases = ["/version/2/1/pt-br"]
+reportingPlaceholder = "[INSERIR MÉTODO DE CONTATO]"
 +++
 
 # Código de Conduta de Colaboração
