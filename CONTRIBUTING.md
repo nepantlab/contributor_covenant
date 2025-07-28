@@ -1,20 +1,17 @@
 # Contributing
 
-Please feel free to submit pull requests or open issues to improve the language of this document, [code contributions](#developers) to the website, design updates, or to provide additional [translations](https://www.contributor-covenant.org/translations).
-
-You should also check the [issues](https://github.com/EthicalSource/contributor_covenant/issues) for the latest discussions involving the current and future versions of the Contributor Covenant.
+Please feel free to submit pull requests or open issues to improve Contributor Covenant, whether through code, content, design, or [translations](https://www.contributor-covenant.org/translations).
 
 If you're new to contributing to projects hosted on Github, or need a refresher, you may find [How to make your first pull request on GitHub](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) a useful resource.
 
-## Submitting an Issue or Feature Request
+Check the [issues](https://github.com/EthicalSource/contributor_covenant/issues) for the latest discussions involving the current and future versions of the Contributor Covenant. If your question, concern, or suggestion is not already listed, please open a new issue using the **New Issue** button, and select either the **🪲Bug Report** or **💡Feature Request** template.
 
-If the issue or feature request you are submitting is not already listed in the [issues](https://github.com/EthicalSource/contributor_covenant/issues), please open a new issue using the **New Issue** button, and then selecting either the **🪲Bug Report** or **💡Feature Request** template.
-
-## Adding a Project to the List of Adopters
+## Adding Your Community to the List of Adopters
 
 * Fork the repository.
-* Add a new row to the [adopters.csv](static/adopters.csv) file,
-  with the project name in the first column, and the project URL in the second column.
+* Edit the `static/adopters.csv` file
+* Add a row with your project or community name in the first column, and its URL in the second column.
+* For human readability, please make sure that you've preserved alphabetical order in the list.
 * Open a pull request.
 
 ## We respect and appreciate different kinds of contributions
@@ -35,16 +32,14 @@ We welcome improvements to the design elements of our website or other ways that
 
 ### Translators and native speakers
 
-We're always looking for new localizations of the Contributor Covenant and are thankful to the volunteers who spend their time on translations.
+We're always looking for translations by native speakers are thankful to the dozens of volunteer translators and reviewers who have donated their time and expertise.
 
-We also rely on the contributions of native speakers in the form of review, edits, and suggestions.
-
-If you are interested in doing a translation, please follow these steps:
+If you are a native speaker interested in doing a translation, please follow these steps:
 
 1. Fork the repository and make a branch for your translation.
 1. If it's a new language, add it to `config.toml`, with a localized name and language code/optional region (e.g. `pt` or `pt-br`).
 1. Create a markdown file with your translation in `version/3/0/code_of_conduct.LANGUAGECODE.md`. (Underscores, not hyphens.) Use the English markdown file as an example.
-1. Update the two fields at the top of your new markdown file: reportingPlaceholder, which should contain the exact placeholder text in the "how to report" section, and the enforcementPlaceholder, which should contain the exact placeholder text in the "Addressing and Repairing Harm" section.
+1. Update the two fields at the top of your new markdown file: `reportingPlaceholder`, which should contain the exact placeholder text in the "how to report" section, and `enforcementPlaceholder`, which should contain the exact placeholder text in the "Addressing and Repairing Harm" section.
 1. Open a pull request.
 1. We will put out a call to have one or more other native speakers review the translation.
 1. Collaborate until the translation is satisfactory.
@@ -60,7 +55,7 @@ Code contributions to improve the development or operation of the [contributor-c
 
 #### Build the website locally
 
-1. To build the website locally, first [fork](https://github.com/EthicalSource/contributor-covenant-builder/fork) the repo and then clone it to your local machine.
+1. To build the website locally, first [fork](https://github.com/EthicalSource/contributor_covenant/fork) the repo and then clone it to your local machine.
 2. [install Hugo](https://gohugo.io/getting-started/installing) using your package manager of choice.
 
 For example, on Debian/Ubuntu:
@@ -81,7 +76,7 @@ If you are using [Homebrew](https://brew.sh) on macOS:
 brew install hugo
 ```
 
-3. From the respository's root directory, start the development server and then view it at http://localhost:1313/.
+3. From the repository's root directory, start the development server and then view it at http://localhost:1313/.
 
 ```bash
 hugo server -D
@@ -104,7 +99,7 @@ hugo server -D
 
 - Try to use classes instead of IDs unless things are absolutely unique
 - One selector per line
-- Support IE 9 and above
+- Support all modern browsers
 - Use `rem` over `em` or `px`
 - Capitalize hexadecimal
 - Breaking lines should be `1px solid #CCC`
@@ -115,6 +110,3 @@ hugo server -D
 
 - Do not use fancy quotes, dashes, and such; the Markdown processor will handle that.
 
-#### Submitting a Pull Request
-
-TODO: Add a section about submitting a pull request.

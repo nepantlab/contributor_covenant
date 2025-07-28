@@ -47,6 +47,9 @@ A code of conduct is not about the advancement of a particular political agenda.
 ## Why should my community have to change to accommodate marginalized people?
 The level of accommodation that the code of conduct implies is not higher than the one that is expected when dealing with peers in other professional settings. It is not about being accommodating to one group, it’s about making all participants feel welcome and safe.
 
+## How can I add my project or community to the list of Contributor Covenant adopters?
+If you're comfortable with using GitHub, please see our [contributing guide](https://github.com/EthicalSource/contributor_covenant/blob/release/CONTRIBUTING.md) for instructions on opening a pull request. For the less technically inclined, please feel free to let us know about your adoption using our [contact form](/contact).
+
 ## Who wrote Contributor Covenant?
 Contributor Covenant was first released in 2014, authored by Coraline Ada Ehmke. Versions 3.0 and later were collaboratively written by a diverse and dedicated group of volunteers from around the world, including Greg Cassel, Coraline Ada Ehmke, Gerardo Lisboa, Rynn Mancuso, Mo McElaney, Maryblessing Okolie, Ben Sternthal, and Casey Watts.
 
