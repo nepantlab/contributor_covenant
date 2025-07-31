@@ -2,6 +2,7 @@
 title = "Frequently Asked Questions about Contributor Covenant"
 summary = "Learn the facts about Contributor Covenant."
 layout = "banner-grid"
+outputs = ["html"]
 +++
 
 # Frequently Asked Questions
